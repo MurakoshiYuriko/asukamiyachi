@@ -1,3 +1,4 @@
+変えちまったよ〜
 <div align="center">
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/hero-v4-japanese-mobile.svg" />
